@@ -1,1 +1,4 @@
-# wk3_miniProject
+# Rock, Paper, Scissors
+---
+
+Mini game of Rock, Paper, Scissors using Javascript.
